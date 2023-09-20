@@ -2,6 +2,9 @@
     property: value;
 } */
 
+/* 
+
+CSS Level 1 Part 1
 
 h1{
     color: blue;
@@ -16,4 +19,28 @@ p{
 }
 h4{
     color: rgba(255, 97, 0,0.5)
+} */
+
+
+/* CSS Level 1 part 2 */
+
+body{
+    background: url(https://t3.ftcdn.net/jpg/03/82/24/44/360_F_382244401_FNIivSDbE7ojw5sT70WYVgmFsw2R7DHD.jpg);
+    background-repeat: no-repeat;
+}
+
+div{
+    background: blue;
+    border-color: orange;
+    border-width: 5px;
+    border-style: double;
+}
+
+p{
+    color: yellow;
+}
+
+span{
+    background-color: red;
+    color: black;
 }
